@@ -1,0 +1,50 @@
+h1{
+    color:gray;
+    font-size: 75px; 
+    margin:10px;
+    font-family: Impact, Charcoal, sans-serif;
+    text-decoration: underline;
+    text-align:center;
+}
+#Large_container{
+    border: 5px solid black;
+    margin:10px;
+    width:500px;
+    margin:0 auto; 
+  }
+#Large_container img{ 
+    width: 300px; 
+    display: block;
+    margin:0 auto; 
+}
+#small_container{ 
+    border: 2.5px solid black;
+    margin:10px
+}
+.list{
+    font-weight: bold;
+    font-family: "Lucida Console", Courier, monospace;
+    color: blue;
+    
+    }
+.left{
+    float: left;
+}
+li{
+    list-style: none;
+    color: maroon;
+    font-size: 20px;
+}
+.fact{
+    font-style: italic;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    margin:10px;
+}
+.description{
+    font-family: "Lucida Console", Courier, monospace;
+    font-size: 20px;
+    padding: 10px;
+}
+body{
+    background-image: linear-gradient(to top, #e6b980 0%, #eacda3 100%);}
